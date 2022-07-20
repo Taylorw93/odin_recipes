@@ -1,0 +1,18 @@
+section {
+    background-color: rgb(238, 235, 235);
+    padding: 1em;
+    margin: 1em 0;
+}
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.one_section {
+    margin-top: 2em;
+}
+img {
+    height: 500px;
+    width: auto;
+    border: 5px solid black;
+}
