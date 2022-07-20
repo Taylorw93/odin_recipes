@@ -16,3 +16,6 @@ img {
     width: auto;
     border: 5px solid black;
 }
+body {
+    font-family: Verdana, sans-serif;
+}
